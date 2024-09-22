@@ -18,4 +18,12 @@
 3. Numpy
 
 ## Demo Project
+The video collected from Raspberry Pi:
+
+![Car count](/a.png)
+
+
+Car count on the video:
+
+![Car](/b.png)
 The output is shown [Car Counter Demo](2836.pptx)
